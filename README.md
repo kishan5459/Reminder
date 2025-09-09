@@ -1,16 +1,18 @@
-# reminder_with_local_notification
+# Reminder ⏰
 
-A new Flutter project.
+An offline Flutter application to help you manage tasks by sending timely reminders and notifications.
 
-## Getting Started
+## Features 🛎️
 
-This project is a starting point for a Flutter application.
+* Create and manage task reminders locally without needing an internet connection
+* Receive push notifications when reminders are due
+* Lightweight and easy to use
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots & Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+All screenshots and demo videos are shared via Google Drive:
+[Demo Link](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+<p align="left" style="font-size:small"><i>[Public version of <code>flutter_projects/reminder_with_local_notification</code>]</i></p>
