@@ -1,0 +1,3 @@
+https://github.com/MaikuB/flutter_local_notifications/issues/2286
+
+android/app/build.gradle.kts is chnaged
